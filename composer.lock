@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f82dfd3f16d6cb6f66f9a602883f0f01",
+    "content-hash": "7d2da9f53c723d08a88a20075dd667b5",
     "packages": [
         {
             "name": "composer/installers",
@@ -880,6 +880,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/ps-auto-sitemap/"
+        },
+        {
+            "name": "wpackagist-plugin/vk-all-in-one-expansion-unit",
+            "version": "9.8.1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/vk-all-in-one-expansion-unit/",
+                "reference": "tags/9.8.1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/vk-all-in-one-expansion-unit.9.8.1.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/vk-all-in-one-expansion-unit/"
         },
         {
             "name": "wpackagist-plugin/wp-mail-smtp",
