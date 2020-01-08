@@ -44,7 +44,8 @@
     "vlucas/phpdotenv": "^3.4.0",
     "wpackagist-plugin/contact-form-7": "*",
     "wpackagist-plugin/wp-mail-smtp": "*",
-    "wpackagist-plugin/ps-auto-sitemap": "*"
+    "wpackagist-plugin/ps-auto-sitemap": "*",
+    "wpackagist-plugin/vk-all-in-one-expansion-unit": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.4.2",
